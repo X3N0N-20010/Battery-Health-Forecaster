@@ -1,2 +1,2 @@
 # Battery-Health-Forecaster
-Machine learning time-series forecasting web application for predicting battery degradation.
+This project presents a multi-modal deep learning framework designed to accurately forecast battery degradation and identify early-life degradation signatures. Evaluated on the CALCE dataset, the model utilizes a Spatial-Temporal Fusion pipeline. It combines Convolutional Neural Networks (CNN) to extract spatial features from raw discharge waveforms with an Attentive Multi-Modal GRU to model long-term temporal dependencies.
